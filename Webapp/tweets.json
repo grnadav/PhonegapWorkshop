@@ -1,0 +1,2129 @@
+{
+    "completed_in": 0.102,
+    "max_id": 229534544359993340,
+    "max_id_str": "229534544359993344",
+    "next_page": "?page=2&max_id=229534544359993344&q=hp&rpp=50&include_entities=1&result_type=mixed",
+    "page": 1,
+    "query": "hp",
+    "refresh_url": "?since_id=229534544359993344&q=hp&result_type=mixed&include_entities=1",
+    "results": [
+        {
+            "created_at": "Sat, 28 Jul 2012 16:41:34 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "si_sableng",
+            "from_user_id": 384116520,
+            "from_user_id_str": "384116520",
+            "from_user_name": "Pelajar / Mahasiswa",
+            "geo": null,
+            "id": 229255287683567600,
+            "id_str": "229255287683567616",
+            "iso_language_code": "in",
+            "metadata": {
+                "recent_retweets": 10,
+                "result_type": "popular"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2173287039/_pahrullykzoet_normal.png",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2173287039/_pahrullykzoet_normal.png",
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;",
+            "text": "PIN punya, Nomer HP punya, FB temenan, Twitter saling follow. Tapi, percuma kalo ngga pernah \"ngobrol\" atau \"saling sapa\"",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sat, 28 Jul 2012 00:16:45 +0000",
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "iwasfree",
+                        "indices": [
+                            135,
+                            144
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "Evy_Lynch",
+            "from_user_id": 198830228,
+            "from_user_id_str": "198830228",
+            "from_user_name": "Evanna Lynch",
+            "geo": null,
+            "id": 229007450739712000,
+            "id_str": "229007450739712000",
+            "iso_language_code": "en",
+            "metadata": {
+                "recent_retweets": 12,
+                "result_type": "popular"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1451317355/securedownload_normal.png",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1451317355/securedownload_normal.png",
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+            "text": "For what it's worth Olympics, you could've lost the GIANT inflatable Dark Lord &amp; hired HP actors for an OLYMPIC DUEL for less £££. #iwasfree",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sat, 28 Jul 2012 14:14:03 +0000",
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "BedaTIpis",
+                        "indices": [
+                            106,
+                            116
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "PetikanLagu2",
+            "from_user_id": 300800368,
+            "from_user_id_str": "300800368",
+            "from_user_name": "Petikan Lagu2",
+            "geo": null,
+            "id": 229218163462643700,
+            "id_str": "229218163462643712",
+            "iso_language_code": "in",
+            "metadata": {
+                "recent_retweets": 9,
+                "result_type": "popular"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1554519965/PetikanLagu2_normal.png",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1554519965/PetikanLagu2_normal.png",
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;",
+            "text": "Pacaran: Malem minggu sama pacar | LDR : Malam minggu sama HP (OTPan) | Jomblo: Malam Minggu sama Twitter #BedaTIpis",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:14 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/sHksu0aA",
+                        "expanded_url": "http://amzn.to/FPmEB9",
+                        "display_url": "amzn.to/FPmEB9",
+                        "indices": [
+                            116,
+                            136
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "from_user": "evivuvimez",
+            "from_user_id": 477553293,
+            "from_user_id_str": "477553293",
+            "from_user_name": "Ahmed Christiansen",
+            "geo": null,
+            "id": 229534544359993340,
+            "id_str": "229534544359993344",
+            "iso_language_code": "de",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1834450321/193_normal.gif",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1834450321/193_normal.gif",
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;",
+            "text": "Kasco De-Icers- 3/4 HP; 6.7 amps; 120 Volts; 34 Thrust Pounds; 50' Power Cord # 3400D050: ETL listed to stringen... http://t.co/sHksu0aA",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:14 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "SyazzAnaa",
+                        "name": "Syazz Anaa",
+                        "id": 616228898,
+                        "id_str": "616228898",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    }
+                ]
+            },
+            "from_user": "luncai_setan",
+            "from_user_id": 440810897,
+            "from_user_id_str": "440810897",
+            "from_user_name": "?????? (?_?)",
+            "geo": null,
+            "id": 229534544083185660,
+            "id_str": "229534544083185665",
+            "iso_language_code": "pl",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2432013574/r7cqtmmro6hpakfclvhv_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2432013574/r7cqtmmro6hpakfclvhv_normal.jpeg",
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+            "text": "RT @SyazzAnaa: Mrajuk &gt; Off hp &gt; Rindu &gt; On blik &gt; 2mcg &gt; Excited &gt; Mcg Maxis n Hotlink &gt; Bebai &gt; Baling hp &gt; Brkecai &gt; Bli baru &gt; Babi dpersalahkn",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:14 +0000",
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "YAatauTIDAK",
+                        "indices": [
+                            40,
+                            52
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "YAAatauTIDAK",
+                        "name": "YES OR NO",
+                        "id": 390574170,
+                        "id_str": "390574170",
+                        "indices": [
+                            25,
+                            38
+                        ]
+                    }
+                ]
+            },
+            "from_user": "RidaRezeki",
+            "from_user_id": 439712177,
+            "from_user_id_str": "439712177",
+            "from_user_name": "?Ri iRi De ada?",
+            "geo": null,
+            "id": 229534543101702140,
+            "id_str": "229534543101702144",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2442052643/2012-06-14_2017.15.31_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2442052643/2012-06-14_2017.15.31_normal.jpg",
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry®&lt;/a&gt;",
+            "text": "Kyak nya gak bisa deh RT\"@YAAatauTIDAK: #YAatauTIDAK bisa sehari gak ngambil HP ??\"",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:14 +0000",
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "YAatauTIDAK",
+                        "indices": [
+                            21,
+                            33
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "YAAatauTIDAK",
+                        "name": "YES OR NO",
+                        "id": 390574170,
+                        "id_str": "390574170",
+                        "indices": [
+                            6,
+                            19
+                        ]
+                    }
+                ]
+            },
+            "from_user": "vivitsf",
+            "from_user_id": 361657508,
+            "from_user_id_str": "361657508",
+            "from_user_name": "M.pipitsidrtulfitroh",
+            "geo": null,
+            "id": 229534542208331780,
+            "id_str": "229534542208331776",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2428252076/IMG01238-20120202-1532_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2428252076/IMG01238-20120202-1532_normal.jpg",
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry®&lt;/a&gt;",
+            "text": "Tidak\"@YAAatauTIDAK: #YAatauTIDAK bisa sehari gak ngambil HP ??\"",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:13 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Mayyraaaa",
+                        "name": "Siti Humaira",
+                        "id": 235830473,
+                        "id_str": "235830473",
+                        "indices": [
+                            48,
+                            58
+                        ]
+                    },
+                    {
+                        "screen_name": "monitamomon",
+                        "name": "Monita surya putri",
+                        "id": 293968279,
+                        "id_str": "293968279",
+                        "indices": [
+                            60,
+                            72
+                        ]
+                    }
+                ]
+            },
+            "from_user": "monitamomon",
+            "from_user_id": 293968279,
+            "from_user_id_str": "293968279",
+            "from_user_name": "Monita surya putri",
+            "geo": null,
+            "id": 229534538009833470,
+            "id_str": "229534538009833472",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2243530693/340267772_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2243530693/340267772_normal.jpg",
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;ÜberSocial for BlackBerry&lt;/a&gt;",
+            "text": "Hp aku hmpr rusak,jd sering ku non-aktifkan:DRT @Mayyraaaa: @monitamomon Sangkuriang dimana dirimuuuuuuu (?´_?`)",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:12 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "kunitarochad2",
+            "from_user_id": 207356134,
+            "from_user_id_str": "207356134",
+            "from_user_name": "?????",
+            "geo": null,
+            "id": 229534537678483460,
+            "id_str": "229534537678483456",
+            "iso_language_code": "ja",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1151971226/SH3B0001_normal.JPG",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1151971226/SH3B0001_normal.JPG",
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+            "text": "???????HP???????????????????????????????????????????????\nMare????????????????????",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:11 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "AwesomeKonnie",
+                        "name": "Karoline :3",
+                        "id": 222463070,
+                        "id_str": "222463070",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    },
+                    {
+                        "screen_name": "HP_FOR_LIFETIME",
+                        "name": "RIDDIKULUS! ??·",
+                        "id": 632818042,
+                        "id_str": "632818042",
+                        "indices": [
+                            19,
+                            35
+                        ]
+                    },
+                    {
+                        "screen_name": "OfficialAPhelps",
+                        "name": "AbbeyGeorgiaPhelps™",
+                        "id": 406312113,
+                        "id_str": "406312113",
+                        "indices": [
+                            36,
+                            52
+                        ]
+                    }
+                ]
+            },
+            "from_user": "HP_FOR_LIFETIME",
+            "from_user_id": 632818042,
+            "from_user_id_str": "632818042",
+            "from_user_name": "RIDDIKULUS! ??·",
+            "geo": null,
+            "id": 229534532796313600,
+            "id_str": "229534532796313601",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2444420418/xs4h1xa2xdz8hgpn0eeo_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2444420418/xs4h1xa2xdz8hgpn0eeo_normal.jpeg",
+            "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+            "text": "RT @AwesomeKonnie: @HP_FOR_LIFETIME @officialaphelps LUXOR AND ASWAN. OMG DO IT! &lt;3 These are the freaking best places on earth.",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null,
+            "in_reply_to_status_id": 229532416396636160,
+            "in_reply_to_status_id_str": "229532416396636160"
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:11 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/0uMfeXrX",
+                        "expanded_url": "http://bit.ly/QBkSGf",
+                        "display_url": "bit.ly/QBkSGf",
+                        "indices": [
+                            116,
+                            136
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "from_user": "WalterCar15",
+            "from_user_id": 512557087,
+            "from_user_id_str": "512557087",
+            "from_user_name": "Walter Carnicero",
+            "geo": null,
+            "id": 229534532058107900,
+            "id_str": "229534532058107904",
+            "iso_language_code": "es",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+            "profile_image_url_https": "https://si0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png",
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;",
+            "text": "HP en Ecuador se une al reciclaje: Jean Gingras, Gerente de Programas Ambientales de HP en América Latina y del ... http://t.co/0uMfeXrX",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:11 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/6bAxyZLy",
+                        "expanded_url": "http://bit.ly/QUEMR4",
+                        "display_url": "bit.ly/QUEMR4",
+                        "indices": [
+                            116,
+                            136
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "from_user": "Fabus10",
+            "from_user_id": 414253878,
+            "from_user_id_str": "414253878",
+            "from_user_name": "Fatima Bustos",
+            "geo": null,
+            "id": 229534531256995840,
+            "id_str": "229534531256995840",
+            "iso_language_code": "es",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1642518183/Fatima_Bustos_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1642518183/Fatima_Bustos_normal.jpg",
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;",
+            "text": "HP en Ecuador se une al reciclaje: Jean Gingras, Gerente de Programas Ambientales de HP en América Latina y del ... http://t.co/6bAxyZLy",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:11 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/IZCnu4kg",
+                        "expanded_url": "http://bit.ly/QUEKZo",
+                        "display_url": "bit.ly/QUEKZo",
+                        "indices": [
+                            116,
+                            136
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "from_user": "Vicentec31",
+            "from_user_id": 425832669,
+            "from_user_id_str": "425832669",
+            "from_user_name": "Vicente Cañas",
+            "geo": null,
+            "id": 229534531168919550,
+            "id_str": "229534531168919552",
+            "iso_language_code": "es",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1670102501/Vicente_Ca_as_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1670102501/Vicente_Ca_as_normal.jpg",
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;",
+            "text": "HP en Ecuador se une al reciclaje: Jean Gingras, Gerente de Programas Ambientales de HP en América Latina y del ... http://t.co/IZCnu4kg",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:11 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "zieeee",
+            "from_user_id": 310649607,
+            "from_user_id_str": "310649607",
+            "from_user_name": "Sri Sundari Samwati",
+            "geo": null,
+            "id": 229534530078384130,
+            "id_str": "229534530078384129",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2438320091/8t52jkr8ryiwlsk51jxb_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2438320091/8t52jkr8ryiwlsk51jxb_normal.jpeg",
+            "source": "&lt;a href=&quot;http://twitter.com/download/android&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;",
+            "text": "&lt;- pulsa nol rupiah, bis ga aktif, hp ngadat, modal wifi doang -_-",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:10 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "kon_aki_cha",
+            "from_user_id": 387150272,
+            "from_user_id_str": "387150272",
+            "from_user_name": "???? ??",
+            "geo": null,
+            "id": 229534526987182080,
+            "id_str": "229534526987182081",
+            "iso_language_code": "ja",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1694049030/BIu7VSqw_normal",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1694049030/BIu7VSqw_normal",
+            "source": "&lt;a href=&quot;http://twitter.com/download/android&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;",
+            "text": "?????5??????2??HP43????HP?????????????????????????????????",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:09 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "Noraaafriyani",
+            "from_user_id": 559423179,
+            "from_user_id_str": "559423179",
+            "from_user_name": "Nora? ",
+            "geo": null,
+            "id": 229534525103943680,
+            "id_str": "229534525103943680",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2387783419/4wkok66a99unoztulsvi_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2387783419/4wkok66a99unoztulsvi_normal.jpeg",
+            "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;",
+            "text": "Hp gak masok sms aja dibilang kayak kuburan, mabok dah :D",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:09 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "AdityaSupit",
+            "from_user_id": 74647058,
+            "from_user_id_str": "74647058",
+            "from_user_name": "Aditya G Bastian",
+            "geo": null,
+            "id": 229534523094876160,
+            "id_str": "229534523094876161",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2440423481/6iawrdgxbjrfu77xsu0b_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2440423481/6iawrdgxbjrfu77xsu0b_normal.jpeg",
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry®&lt;/a&gt;",
+            "text": "Hey manis, selamat buka puasa *sambil liatin wallpaper hp* :))))",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:09 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "edane0_0akbar",
+                        "name": "AjiSabiqBinYahya",
+                        "id": 272065782,
+                        "id_str": "272065782",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    }
+                ]
+            },
+            "from_user": "RinaldyRS",
+            "from_user_id": 97195446,
+            "from_user_id_str": "97195446",
+            "from_user_name": "R.",
+            "geo": null,
+            "id": 229534522667061250,
+            "id_str": "229534522667061248",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2398392185/DSC_5455_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2398392185/DSC_5455_normal.jpg",
+            "source": "&lt;a href=&quot;http://aplus-app.com&quot; rel=&quot;nofollow&quot;&gt;A.plus for BlackBerry&lt;/a&gt;",
+            "text": "@edane0_0akbar minta nomor hp aw, ada yg ndak aku tanyakan",
+            "to_user": "edane0_0akbar",
+            "to_user_id": 272065782,
+            "to_user_id_str": "272065782",
+            "to_user_name": "AjiSabiqBinYahya"
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:09 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "REAL_GDragonBB",
+                        "name": "Kwon leader ???",
+                        "id": 701102576,
+                        "id_str": "701102576",
+                        "indices": [
+                            19,
+                            34
+                        ]
+                    },
+                    {
+                        "screen_name": "HP_2ne1CL",
+                        "name": "Lee Chae Rin",
+                        "id": 631867788,
+                        "id_str": "631867788",
+                        "indices": [
+                            53,
+                            63
+                        ]
+                    },
+                    {
+                        "screen_name": "REAL_GDragonBB",
+                        "name": "Kwon leader ???",
+                        "id": 701102576,
+                        "id_str": "701102576",
+                        "indices": [
+                            89,
+                            104
+                        ]
+                    }
+                ]
+            },
+            "from_user": "HP_2ne1CL",
+            "from_user_id": 631867788,
+            "from_user_id_str": "631867788",
+            "from_user_name": "Lee Chae Rin",
+            "geo": null,
+            "id": 229534521148706800,
+            "id_str": "229534521148706817",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2435452794/profile_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2435452794/profile_normal.jpg",
+            "source": "&lt;a href=&quot;http://twidroyd.com&quot; rel=&quot;nofollow&quot;&gt;Twidroyd for Android&lt;/a&gt;",
+            "text": "Orang kaya haha RT @REAL_GDragonBB /tebar dollar/ RT @HP_2ne1CL: Oh iyaa /tebarreceh/ RT @REAL_GDragonBB Sexy itu skydragon ulala-- ... (",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:08 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "Shaw_PAW",
+            "from_user_id": 110928771,
+            "from_user_id_str": "110928771",
+            "from_user_name": "pAdiwWumbo",
+            "geo": null,
+            "id": 229534517218664450,
+            "id_str": "229534517218664448",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2444435963/Pasar_20Minggu-20120729-00251_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2444435963/Pasar_20Minggu-20120729-00251_normal.jpg",
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry®&lt;/a&gt;",
+            "text": "Yah dia lagi misa.. Hp sepi deh.",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:07 +0000",
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "JJ",
+                        "indices": [
+                            114,
+                            117
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "JawabJUJUR",
+                        "name": "Jawab JUJUR™",
+                        "id": 236843999,
+                        "id_str": "236843999",
+                        "indices": [
+                            8,
+                            19
+                        ]
+                    },
+                    {
+                        "screen_name": "MeghaLestaryy",
+                        "name": "Mrs. ??? ?",
+                        "id": 395996712,
+                        "id_str": "395996712",
+                        "indices": [
+                            120,
+                            134
+                        ]
+                    }
+                ]
+            },
+            "from_user": "balqisamaliaa",
+            "from_user_id": 81062825,
+            "from_user_id_str": "81062825",
+            "from_user_name": "Balqis Amalia",
+            "geo": null,
+            "id": 229534513330540540,
+            "id_str": "229534513330540544",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2437279574/IMG_8615_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2437279574/IMG_8615_normal.jpg",
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry®&lt;/a&gt;",
+            "text": "MarahRT @JawabJUJUR: Gimana reaksimu kalo nomor hp km di sebarin sm temen km tanpa izin? Marah atau malah seneng? #JJ | @MeghaLestaryy",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:06 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "g___19oal",
+                        "name": "?????:)8/5???!",
+                        "id": 158696145,
+                        "id_str": "158696145",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ]
+            },
+            "from_user": "miyukin363636",
+            "from_user_id": 101791707,
+            "from_user_id_str": "101791707",
+            "from_user_name": "????",
+            "geo": null,
+            "id": 229534510453248000,
+            "id_str": "229534510453248000",
+            "iso_language_code": "ja",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2396605673/profile_normal.png",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2396605673/profile_normal.png",
+            "source": "&lt;a href=&quot;http://twicca.r246.jp/&quot; rel=&quot;nofollow&quot;&gt;twicca&lt;/a&gt;",
+            "text": "@g___19oal ????????~?HP?????????????????(^.^)",
+            "to_user": "g___19oal",
+            "to_user_id": 158696145,
+            "to_user_id_str": "158696145",
+            "to_user_name": "?????:)8/5???!",
+            "in_reply_to_status_id": 229533765330939900,
+            "in_reply_to_status_id_str": "229533765330939904"
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:06 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "JNHKG",
+            "from_user_id": 566773262,
+            "from_user_id_str": "566773262",
+            "from_user_name": "Sarah Aisyah",
+            "geo": null,
+            "id": 229534509979283460,
+            "id_str": "229534509979283456",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2304318880/555295_406347929408166_519198038_n_Earl_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2304318880/555295_406347929408166_519198038_n_Earl_normal.jpg",
+            "source": "&lt;a href=&quot;http://www.samsungmobile.com&quot; rel=&quot;nofollow&quot;&gt;Samsung Mobile&lt;/a&gt;",
+            "text": "Tadi call gemok tapi dia off hp, maybe :(",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:06 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "fajarprakoso64",
+                        "name": "Waiting the answer..",
+                        "id": 366064902,
+                        "id_str": "366064902",
+                        "indices": [
+                            30,
+                            45
+                        ]
+                    }
+                ]
+            },
+            "from_user": "puthridewi",
+            "from_user_id": 164645227,
+            "from_user_id_str": "164645227",
+            "from_user_name": "B?",
+            "geo": null,
+            "id": 229534509350129660,
+            "id_str": "229534509350129664",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2419895780/IMG01500-20120721-1320_1_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2419895780/IMG01500-20120721-1320_1_normal.jpg",
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+            "text": "Raenek modele aku og ya :$ RT @fajarprakoso64 Kamera hp jarang digunakan semenjak lulus -_- dulu disekolah tiap hari jeprat jepret terus",
+            "to_user": "fajarprakoso64",
+            "to_user_id": 366064902,
+            "to_user_id_str": "366064902",
+            "to_user_name": "Waiting the answer..",
+            "in_reply_to_status_id": 229534124615020540,
+            "in_reply_to_status_id_str": "229534124615020544"
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:06 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "gua_pomen77",
+            "from_user_id": 579910616,
+            "from_user_id_str": "579910616",
+            "from_user_name": "Pomen Salim",
+            "geo": null,
+            "id": 229534508431597570,
+            "id_str": "229534508431597569",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2442667644/IMG01541_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2442667644/IMG01541_normal.jpg",
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry®&lt;/a&gt;",
+            "text": "La ni sementara menanti berbuka memasing ngan hp pintar d tangan ! Selain istarg makanan info trafik juga penting tuk persediaan meja mkn..",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:05 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "roemahafzanni",
+                        "name": "Afzanni",
+                        "id": 372160103,
+                        "id_str": "372160103",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    }
+                ]
+            },
+            "from_user": "IndosatCare",
+            "from_user_id": 548904824,
+            "from_user_id_str": "548904824",
+            "from_user_name": "Indosat CustomerCare",
+            "geo": null,
+            "id": 229534507705970700,
+            "id_str": "229534507705970688",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2280530099/3nhhyzbuw4218xg89v0e_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2280530099/3nhhyzbuw4218xg89v0e_normal.jpeg",
+            "source": "&lt;a href=&quot;http://www.indosat.com/&quot; rel=&quot;nofollow&quot;&gt;Media Viewer&lt;/a&gt;",
+            "text": "@roemahafzanni terima kasih kembali...Jika ada keluhan kembali, silahkan DM kami Nama, no HP &amp; keluhan km ya. Akan kami bantu proses :)",
+            "to_user": "roemahafzanni",
+            "to_user_id": 372160103,
+            "to_user_id_str": "372160103",
+            "to_user_name": "Afzanni",
+            "in_reply_to_status_id": 229512276527435780,
+            "in_reply_to_status_id_str": "229512276527435776"
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:05 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/OzCFJUg6",
+                        "expanded_url": "http://profile.ameba.jp/duemu104/",
+                        "display_url": "profile.ameba.jp/duemu104/",
+                        "indices": [
+                            15,
+                            35
+                        ]
+                    },
+                    {
+                        "url": "http://t.co/sNA9Bz2i",
+                        "expanded_url": "http://www.kmg.la/",
+                        "display_url": "kmg.la",
+                        "indices": [
+                            39,
+                            59
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "from_user": "karichan00",
+            "from_user_id": 386348744,
+            "from_user_id_str": "386348744",
+            "from_user_name": "karichan",
+            "geo": null,
+            "id": 229534505025822720,
+            "id_str": "229534505025822720",
+            "iso_language_code": "ja",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1902193992/___normal.JPG",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1902193992/___normal.JPG",
+            "source": "&lt;a href=&quot;http://www.twisuke.com&quot; rel=&quot;nofollow&quot;&gt;????&lt;/a&gt;",
+            "text": "?????(^O^)/\n???http://t.co/OzCFJUg6\nHP http://t.co/sNA9Bz2i\n(^?^)?????!",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:04 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "SR__GGJessica",
+                        "name": "Cariin couple yah ? ",
+                        "id": 631800278,
+                        "id_str": "631800278",
+                        "indices": [
+                            0,
+                            14
+                        ]
+                    }
+                ]
+            },
+            "from_user": "SR_GGYoona",
+            "from_user_id": 632319696,
+            "from_user_id_str": "632319696",
+            "from_user_name": "Yoshe Febriana ",
+            "geo": null,
+            "id": 229534503251619840,
+            "id_str": "229534503251619841",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2442025042/ava_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2442025042/ava_normal.jpg",
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry®&lt;/a&gt;",
+            "text": "@SR__GGJessica *makan beling* sica eon sih.. Makan hp gak hati-hati jadi keselek..",
+            "to_user": "SR__GGJessica",
+            "to_user_id": 631800278,
+            "to_user_id_str": "631800278",
+            "to_user_name": "Cariin couple yah ? ",
+            "in_reply_to_status_id": 229533649232605200,
+            "in_reply_to_status_id_str": "229533649232605184"
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:04 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "HanesChen",
+            "from_user_id": 116553747,
+            "from_user_id_str": "116553747",
+            "from_user_name": "Hanes Chen",
+            "geo": null,
+            "id": 229534501993324540,
+            "id_str": "229534501993324545",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1901170571/406197_345879775439721_100000531031866_1276002_616483191_n_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1901170571/406197_345879775439721_100000531031866_1276002_616483191_n_normal.jpg",
+            "source": "&lt;a href=&quot;http://mobile.twitter.com&quot; rel=&quot;nofollow&quot;&gt;Mobile Web&lt;/a&gt;",
+            "text": "hp getar waktu na bwat senyam senyum ndri hahaha . .",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:04 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "mogahonu",
+                        "name": "?????",
+                        "id": 145721212,
+                        "id_str": "145721212",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ]
+            },
+            "from_user": "seojanggum",
+            "from_user_id": 179442327,
+            "from_user_id_str": "179442327",
+            "from_user_name": "??(?????)@2???-27a",
+            "geo": null,
+            "id": 229534501041217540,
+            "id_str": "229534501041217536",
+            "iso_language_code": "ja",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1667346997/ren_icon_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1667346997/ren_icon_normal.jpg",
+            "source": "&lt;a href=&quot;http://www.metrotwit.com/&quot; rel=&quot;nofollow&quot;&gt;MetroTwit&lt;/a&gt;",
+            "text": "@mogahonu ????HP????????????????_(:3 ??)_",
+            "to_user": "mogahonu",
+            "to_user_id": 145721212,
+            "to_user_id_str": "145721212",
+            "to_user_name": "?????",
+            "in_reply_to_status_id": 229534172761440260,
+            "in_reply_to_status_id_str": "229534172761440256"
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:04 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "devismashblasts",
+                        "name": "devi chairina ",
+                        "id": 319998379,
+                        "id_str": "319998379",
+                        "indices": [
+                            0,
+                            16
+                        ]
+                    }
+                ]
+            },
+            "from_user": "mondosioRN",
+            "from_user_id": 178330856,
+            "from_user_id_str": "178330856",
+            "from_user_name": "Reeynaldi",
+            "geo": null,
+            "id": 229534500965728260,
+            "id_str": "229534500965728257",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2437003866/IMG00191-20120626-1254_1343192038962_n_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2437003866/IMG00191-20120626-1254_1343192038962_n_normal.jpg",
+            "source": "&lt;a href=&quot;http://www.towerheist.net/&quot; rel=&quot;nofollow&quot;&gt;Tower Heist Takeover, BlackBerry&lt;/a&gt;",
+            "text": "@devismashblasts sudah ka mu perbaiki itu Hp mu",
+            "to_user": "devismashblasts",
+            "to_user_id": 319998379,
+            "to_user_id_str": "319998379",
+            "to_user_name": "devi chairina ",
+            "in_reply_to_status_id": 229031754663596030,
+            "in_reply_to_status_id_str": "229031754663596032"
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:04 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "ginanjay",
+            "from_user_id": 102394883,
+            "from_user_id_str": "102394883",
+            "from_user_name": "Ginanjar Aji S.",
+            "geo": null,
+            "id": 229534500361752580,
+            "id_str": "229534500361752576",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2323298020/ceha7oi74westa9kibrv_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2323298020/ceha7oi74westa9kibrv_normal.jpeg",
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;ÜberSocial for BlackBerry&lt;/a&gt;",
+            "text": "Berbukalah dengan yang manis *ambil hp *liat dp *ternyata tak ada dpnya ._.",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:02 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "dheamoraratu",
+            "from_user_id": 403950183,
+            "from_user_id_str": "403950183",
+            "from_user_name": "dhedewenduldul",
+            "geo": null,
+            "id": 229534495068532740,
+            "id_str": "229534495068532736",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2440898407/Foto_299__1_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2440898407/Foto_299__1_normal.jpg",
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry®&lt;/a&gt;",
+            "text": "Semua kontak bbm en hp ilang:(",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:02 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Geby_Ge",
+                        "name": "??GebyTessaClaudia ?",
+                        "id": 395759859,
+                        "id_str": "395759859",
+                        "indices": [
+                            31,
+                            39
+                        ]
+                    },
+                    {
+                        "screen_name": "bboyonfire",
+                        "name": "Reynard Santoso",
+                        "id": 97615698,
+                        "id_str": "97615698",
+                        "indices": [
+                            41,
+                            52
+                        ]
+                    }
+                ]
+            },
+            "from_user": "bboyonfire",
+            "from_user_id": 97615698,
+            "from_user_id_str": "97615698",
+            "from_user_name": "Reynard Santoso",
+            "geo": null,
+            "id": 229534493042688000,
+            "id_str": "229534493042688003",
+            "iso_language_code": "it",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2374818886/342475078_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2374818886/342475078_normal.jpg",
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;ÜberSocial for BlackBerry&lt;/a&gt;",
+            "text": "Ntii sinciahan\" :D wkwkwkwk RT @Geby_Ge: @bboyonfire mau ganti hp , aaaaaaa .. Envy",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:02 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Dheagarnis",
+                        "name": "Garnis dhea",
+                        "id": 251113891,
+                        "id_str": "251113891",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "BuatSeseorang",
+                        "name": "BuatSeseorang",
+                        "id": 152114423,
+                        "id_str": "152114423",
+                        "indices": [
+                            19,
+                            33
+                        ]
+                    },
+                    {
+                        "screen_name": "SumarlinDkit",
+                        "name": "Sumarlina Darma B.",
+                        "id": 120411130,
+                        "id_str": "120411130",
+                        "indices": [
+                            114,
+                            127
+                        ]
+                    }
+                ]
+            },
+            "from_user": "buddy_text",
+            "from_user_id": 93104514,
+            "from_user_id_str": "93104514",
+            "from_user_name": "????",
+            "geo": null,
+            "id": 229534491813744640,
+            "id_str": "229534491813744640",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2365977648/qpnoxn3nizp0g515tij7_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2365977648/qpnoxn3nizp0g515tij7_normal.jpeg",
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;ÜberSocial for BlackBerry&lt;/a&gt;",
+            "text": "RT @Dheagarnis: RT @BuatSeseorang: Jika 1 hari saja kau tak membuat hp ku brdering, gelisah hatiku minta ampun ! (@SumarlinDkit)",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:01 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "15ardiansyah",
+                        "name": "arief nurdiansyah",
+                        "id": 434905713,
+                        "id_str": "434905713",
+                        "indices": [
+                            29,
+                            42
+                        ]
+                    }
+                ]
+            },
+            "from_user": "afnieinfa",
+            "from_user_id": 255757454,
+            "from_user_id_str": "255757454",
+            "from_user_name": "Afnie Mencoba Hiatus",
+            "geo": null,
+            "id": 229534489318133760,
+            "id_str": "229534489318133761",
+            "iso_language_code": "el",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2437727456/Photo1875_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2437727456/Photo1875_normal.jpg",
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry®&lt;/a&gt;",
+            "text": "cie aip hp anyar (\"`?´)-s RT @15ardiansyah: Nokia LUMIA 710?",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:01 +0000",
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "YAatauTIDAK",
+                        "indices": [
+                            80,
+                            92
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "TulisanKecilku",
+                        "name": "TulisanKecilku™",
+                        "id": 523322773,
+                        "id_str": "523322773",
+                        "indices": [
+                            47,
+                            62
+                        ]
+                    },
+                    {
+                        "screen_name": "YAAatauTIDAK",
+                        "name": "YES OR NO",
+                        "id": 390574170,
+                        "id_str": "390574170",
+                        "indices": [
+                            66,
+                            79
+                        ]
+                    }
+                ]
+            },
+            "from_user": "DanyHakim",
+            "from_user_id": 102928022,
+            "from_user_id_str": "102928022",
+            "from_user_name": "Mohammad Dany Hakim",
+            "geo": null,
+            "id": 229534487883690000,
+            "id_str": "229534487883689986",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2437533098/bclu2x6mp1615s5rcosp_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2437533098/bclu2x6mp1615s5rcosp_normal.jpeg",
+            "source": "&lt;a href=&quot;http://ubersocial.com&quot; rel=&quot;nofollow&quot;&gt;ÜberSocial for BlackBerry&lt;/a&gt;",
+            "text": "Bisa.asalkan ada Galaxy Tab *sama aja kale* RT @TulisanKecilku RT @YAAatauTIDAK #YAatauTIDAK bisa sehari gak ngambil HP ??",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:00 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/AfdIZzQd",
+                        "expanded_url": "http://www.facebook.com/hpespana",
+                        "display_url": "facebook.com/hpespana",
+                        "indices": [
+                            103,
+                            123
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "Anonymous_Link",
+                        "name": "The Anonymous Link",
+                        "id": 325182615,
+                        "id_str": "325182615",
+                        "indices": [
+                            124,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "from_user": "Informatica_CGT",
+            "from_user_id": 314055031,
+            "from_user_id_str": "314055031",
+            "from_user_name": "Informática CGT",
+            "geo": null,
+            "id": 229534487195836400,
+            "id_str": "229534487195836416",
+            "iso_language_code": "es",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2370249881/tm5ec0sj7wwkvr4g1816_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2370249881/tm5ec0sj7wwkvr4g1816_normal.jpeg",
+            "source": "&lt;a href=&quot;http://twitter.com/download/android&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;",
+            "text": "Recuerda, puedes ayudar a la plantilla de HP en lucha escribiendo mensajes contra despidos en FB de HP http://t.co/AfdIZzQd @Anonymous_Link",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:00 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "89__SunnyRPH",
+            "from_user_id": 633070980,
+            "from_user_id_str": "633070980",
+            "from_user_name": "???",
+            "geo": null,
+            "id": 229534486583447550,
+            "id_str": "229534486583447553",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2428067707/201082721120_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2428067707/201082721120_normal.jpg",
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry®&lt;/a&gt;",
+            "text": "Bosen banget dirumah .-. Hp sepi ga ada temen ._. Suram :l",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:11:00 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/lsBIt8EM",
+                        "expanded_url": "http://www.farmdo.com/shokueki.html",
+                        "display_url": "farmdo.com/shokueki.html",
+                        "indices": [
+                            90,
+                            110
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "daikitian",
+                        "name": "????? ???",
+                        "id": 183150939,
+                        "id_str": "183150939",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    }
+                ]
+            },
+            "from_user": "shokunoekicom",
+            "from_user_id": 612983590,
+            "from_user_id_str": "612983590",
+            "from_user_name": "????????????.com?",
+            "geo": null,
+            "id": 229534486168231940,
+            "id_str": "229534486168231936",
+            "iso_language_code": "ja",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2323908700/12_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2323908700/12_normal.jpg",
+            "source": "&lt;a href=&quot;http://twittbot.net/&quot; rel=&quot;nofollow&quot;&gt;twittbot.net&lt;/a&gt;",
+            "text": "RT @daikitian: ???????(???)(???)(???)(????)??????????????????? ????????????????????????HP:http://t.co/lsBIt8EM? ",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:10:59 +0000",
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "???",
+                        "indices": [
+                            102,
+                            106
+                        ]
+                    },
+                    {
+                        "text": "???",
+                        "indices": [
+                            107,
+                            111
+                        ]
+                    },
+                    {
+                        "text": "TOKYOFM",
+                        "indices": [
+                            112,
+                            120
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "http://t.co/c2Xmgi7L",
+                        "expanded_url": "http://www.tfm.co.jp/appli",
+                        "display_url": "tfm.co.jp/appli",
+                        "indices": [
+                            81,
+                            101
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "APPLITHEWORLD",
+                        "name": "APPLI THE WORLD",
+                        "id": 498489951,
+                        "id_str": "498489951",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ]
+            },
+            "from_user": "katsuakiFMLOVE",
+            "from_user_id": 101901949,
+            "from_user_id_str": "101901949",
+            "from_user_name": "?????FMRadioListener",
+            "geo": null,
+            "id": 229534483207045120,
+            "id_str": "229534483207045120",
+            "iso_language_code": "ja",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2327788391/image_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2327788391/image_normal.jpg",
+            "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+            "text": "RT @APPLITHEWORLD: ?????????TOP5??????????????????!??????????????????????????\nHP?http://t.co/c2Xmgi7L #??? #??? #TOKYOFM",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:10:59 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "RT_AsmaraCinta",
+                        "name": "PROMOTE NGEWE GRATIS",
+                        "id": 250205996,
+                        "id_str": "250205996",
+                        "indices": [
+                            53,
+                            68
+                        ]
+                    },
+                    {
+                        "screen_name": "elbidondon",
+                        "name": "elbi dondon II",
+                        "id": 709094922,
+                        "id_str": "709094922",
+                        "indices": [
+                            101,
+                            112
+                        ]
+                    },
+                    {
+                        "screen_name": "AiniR31",
+                        "name": "Aini",
+                        "id": 399920241,
+                        "id_str": "399920241",
+                        "indices": [
+                            113,
+                            121
+                        ]
+                    }
+                ]
+            },
+            "from_user": "RT_AsmaraCinta",
+            "from_user_id": 250205996,
+            "from_user_id_str": "250205996",
+            "from_user_name": "PROMOTE NGEWE GRATIS",
+            "geo": null,
+            "id": 229534482926030850,
+            "id_str": "229534482926030848",
+            "iso_language_code": "es",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2433861629/CaptureNux_202012-07-26_2010_3B21_3B42_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2433861629/CaptureNux_202012-07-26_2010_3B21_3B42_normal.jpg",
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry®&lt;/a&gt;",
+            "text": "YG MAU DI PROMOTE PIN BB &amp; NO HP SILAHKAN FOLLOW @RT_AsmaraCinta KALIAN BISA NGEWE GRATIS DISINI @elbidondon @AiniR31",
+            "to_user": "elbidondon",
+            "to_user_id": 709094922,
+            "to_user_id_str": "709094922",
+            "to_user_name": "elbi dondon II",
+            "in_reply_to_status_id": 229495555779350530,
+            "in_reply_to_status_id_str": "229495555779350529"
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:10:59 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "HP_2ne1CL",
+                        "name": "Lee Chae Rin",
+                        "id": 631867788,
+                        "id_str": "631867788",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ]
+            },
+            "from_user": "REAL_GDragonBB",
+            "from_user_id": 701102576,
+            "from_user_id_str": "701102576",
+            "from_user_name": "Kwon leader ???",
+            "geo": null,
+            "id": 229534481302827000,
+            "id_str": "229534481302827008",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2438361584/Profil_normal.png",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2438361584/Profil_normal.png",
+            "source": "&lt;a href=&quot;http://www.twbird.tk&quot; rel=&quot;nofollow&quot;&gt;TwBird™&lt;/a&gt;",
+            "text": "@HP_2ne1CL udah selesai makannya sayang??",
+            "to_user": "HP_2ne1CL",
+            "to_user_id": 631867788,
+            "to_user_id_str": "631867788",
+            "to_user_name": "Lee Chae Rin",
+            "in_reply_to_status_id": 229531625652903940,
+            "in_reply_to_status_id_str": "229531625652903936"
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:10:56 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ohhekin",
+                        "name": "iEkinnnnnnnnnn ?",
+                        "id": 423948937,
+                        "id_str": "423948937",
+                        "indices": [
+                            0,
+                            8
+                        ]
+                    }
+                ]
+            },
+            "from_user": "aien_yunus",
+            "from_user_id": 553345071,
+            "from_user_id_str": "553345071",
+            "from_user_name": " ???? ?????™ ",
+            "geo": null,
+            "id": 229534466924761100,
+            "id_str": "229534466924761088",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2366814434/fxoqjhnxff9awn8jqjys_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2366814434/fxoqjhnxff9awn8jqjys_normal.jpeg",
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry®&lt;/a&gt;",
+            "text": "@ohhekin Biase jea . Same jea mcm hp lain . Cuma bezanya ada bbm .",
+            "to_user": "ohhekin",
+            "to_user_id": 423948937,
+            "to_user_id_str": "423948937",
+            "to_user_name": "iEkinnnnnnnnnn ?",
+            "in_reply_to_status_id": 229534110597648400,
+            "in_reply_to_status_id_str": "229534110597648385"
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:10:55 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "irinneoktavian",
+                        "name": "I N N E ",
+                        "id": 507715721,
+                        "id_str": "507715721",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    }
+                ]
+            },
+            "from_user": "GRgustiiranda",
+            "from_user_id": 365242608,
+            "from_user_id_str": "365242608",
+            "from_user_name": "G U S ? I",
+            "geo": null,
+            "id": 229534465456742400,
+            "id_str": "229534465456742400",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2390103882/pg6ktt4zbeq510g2mnzv_normal.jpeg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2390103882/pg6ktt4zbeq510g2mnzv_normal.jpeg",
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry®&lt;/a&gt;",
+            "text": "@irinneoktavian wkwkwkwk abis plsa hp ny jg dk dbwa* tong .. :P",
+            "to_user": "irinneoktavian",
+            "to_user_id": 507715721,
+            "to_user_id_str": "507715721",
+            "to_user_name": "I N N E ",
+            "in_reply_to_status_id": 229533757848301570,
+            "in_reply_to_status_id_str": "229533757848301568"
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:10:55 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "diLa_diLe_diLo",
+                        "name": "FadHiLa",
+                        "id": 64412420,
+                        "id_str": "64412420",
+                        "indices": [
+                            0,
+                            15
+                        ]
+                    }
+                ]
+            },
+            "from_user": "mirzafeb",
+            "from_user_id": 65047271,
+            "from_user_id_str": "65047271",
+            "from_user_name": "MIRZA FEBRIAN E .",
+            "geo": null,
+            "id": 229534463527378940,
+            "id_str": "229534463527378944",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1721093727/195556_1200533141_7107851_n_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1721093727/195556_1200533141_7107851_n_normal.jpg",
+            "source": "&lt;a href=&quot;http://www.tweetcaster.com&quot; rel=&quot;nofollow&quot;&gt;TweetCaster for Android&lt;/a&gt;",
+            "text": "@diLa_diLe_diLo oya kalo ngontak k no 3 ato twitter dlu yak, td pas ketemu itu br ilang hp yg 6600",
+            "to_user": "diLa_diLe_diLo",
+            "to_user_id": 64412420,
+            "to_user_id_str": "64412420",
+            "to_user_name": "FadHiLa",
+            "in_reply_to_status_id": 229265967023267840,
+            "in_reply_to_status_id_str": "229265967023267840"
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:10:54 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/wjyjYJ3r",
+                        "expanded_url": "http://bit.ly/ObpDWO",
+                        "display_url": "bit.ly/ObpDWO",
+                        "indices": [
+                            116,
+                            136
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "from_user": "compieu",
+            "from_user_id": 218787392,
+            "from_user_id_str": "218787392",
+            "from_user_name": "Johann Compi",
+            "geo": null,
+            "id": 229534461937741820,
+            "id_str": "229534461937741824",
+            "iso_language_code": "de",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+            "profile_image_url_https": "https://si0.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;",
+            "text": "HP DC 7700 Midi - Tower Komplett - PC: Wildberg (Württemberg) | HP DC 7700 mit Intel Pentium D820 mit 2,8 GHz, 2... http://t.co/wjyjYJ3r",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:10:54 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "kikianys",
+                        "name": "K I K I ? N Y S",
+                        "id": 138387150,
+                        "id_str": "138387150",
+                        "indices": [
+                            16,
+                            25
+                        ]
+                    },
+                    {
+                        "screen_name": "Liidya1102",
+                        "name": "Lidya Chandra ",
+                        "id": 180334263,
+                        "id_str": "180334263",
+                        "indices": [
+                            41,
+                            52
+                        ]
+                    },
+                    {
+                        "screen_name": "kikianys",
+                        "name": "K I K I ? N Y S",
+                        "id": 138387150,
+                        "id_str": "138387150",
+                        "indices": [
+                            68,
+                            77
+                        ]
+                    }
+                ]
+            },
+            "from_user": "Liidya1102",
+            "from_user_id": 180334263,
+            "from_user_id_str": "180334263",
+            "from_user_name": "Lidya Chandra ",
+            "geo": null,
+            "id": 229534461795119100,
+            "id_str": "229534461795119104",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2417874371/Image2272_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2417874371/Image2272_normal.jpg",
+            "source": "&lt;a href=&quot;http://twittanic.com&quot; rel=&quot;nofollow&quot;&gt;Twittanic™&lt;/a&gt;",
+            "text": "trs d apain? RT @kikianys: jangan -,- RT @Liidya1102: banting hp RT @kikianys: telkomsel jangan kaya gini napa -,-",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:10:54 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "ViraDinaELF",
+            "from_user_id": 369284847,
+            "from_user_id_str": "369284847",
+            "from_user_name": "Vira dina",
+            "geo": null,
+            "id": 229534461388288000,
+            "id_str": "229534461388288001",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2399470740/303129_189891361084922_1721355812_n_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2399470740/303129_189891361084922_1721355812_n_normal.jpg",
+            "source": "&lt;a href=&quot;http://blackberry.com/twitter&quot; rel=&quot;nofollow&quot;&gt;Twitter for BlackBerry®&lt;/a&gt;",
+            "text": "Abis sholat mau buang hp :( *semangat!*",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:10:53 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "hopej2y3",
+                        "name": "YUN",
+                        "id": 206149306,
+                        "id_str": "206149306",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    },
+                    {
+                        "screen_name": "ho1y9t",
+                        "name": "?? ??",
+                        "id": 206020824,
+                        "id_str": "206020824",
+                        "indices": [
+                            10,
+                            17
+                        ]
+                    }
+                ]
+            },
+            "from_user": "marikoluvs0314S",
+            "from_user_id": 134475166,
+            "from_user_id_str": "134475166",
+            "from_user_name": "mariko?",
+            "geo": null,
+            "id": 229534457676312580,
+            "id_str": "229534457676312576",
+            "iso_language_code": "ja",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2436651259/image_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2436651259/image_normal.jpg",
+            "source": "&lt;a href=&quot;http://tweetli.st/&quot; rel=&quot;nofollow&quot;&gt;TweetList Pro&lt;/a&gt;",
+            "text": "@hopej2y3 @ho1y9t ??????('?`?)?????????????????????_(+?e:)_?????????????????\nHP????????!",
+            "to_user": "hopej2y3",
+            "to_user_id": 206149306,
+            "to_user_id_str": "206149306",
+            "to_user_name": "YUN",
+            "in_reply_to_status_id": 229533491824586750,
+            "in_reply_to_status_id_str": "229533491824586752"
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:10:53 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/7vdr0cHU",
+                        "expanded_url": "http://tgushsastronomy.jimdo.com",
+                        "display_url": "tgushsastronomy.jimdo.com",
+                        "indices": [
+                            34,
+                            54
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "from_user": "dSbq5p",
+            "from_user_id": 277017416,
+            "from_user_id_str": "277017416",
+            "from_user_name": "?????",
+            "geo": null,
+            "id": 229534456413822980,
+            "id_str": "229534456413822977",
+            "iso_language_code": "ja",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1465426475/egg-1_normal.png",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1465426475/egg-1_normal.png",
+            "source": "&lt;a href=&quot;http://twittbot.net/&quot; rel=&quot;nofollow&quot;&gt;twittbot.net&lt;/a&gt;",
+            "text": "??????????HP?????????????????URL? http://t.co/7vdr0cHU",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:10:52 +0000",
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "amzn",
+                        "indices": [
+                            0,
+                            5
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "http://t.co/YUoLLh8M",
+                        "expanded_url": "http://amzn.to/ObpEKf",
+                        "display_url": "amzn.to/ObpEKf",
+                        "indices": [
+                            116,
+                            136
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "from_user": "ADMeyers11",
+            "from_user_id": 281156670,
+            "from_user_id_str": "281156670",
+            "from_user_name": "Allen Meyers",
+            "geo": null,
+            "id": 229534449929445380,
+            "id_str": "229534449929445376",
+            "iso_language_code": "en",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/1315126768/pic008_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/1315126768/pic008_normal.jpg",
+            "source": "&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;",
+            "text": "#amzn toys- Auto Vent Holder with Car Charger for the HP iPAQ h4350 / h 4350 - uses Gomadic TipExchange Technolo... http://t.co/YUoLLh8M",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        },
+        {
+            "created_at": "Sun, 29 Jul 2012 11:10:51 +0000",
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "from_user": "irmafzy",
+            "from_user_id": 238107971,
+            "from_user_id_str": "238107971",
+            "from_user_name": "Irma",
+            "geo": null,
+            "id": 229534448742453250,
+            "id_str": "229534448742453249",
+            "iso_language_code": "in",
+            "metadata": {
+                "result_type": "recent"
+            },
+            "profile_image_url": "http://a0.twimg.com/profile_images/2359281992/irm1_normal.jpg",
+            "profile_image_url_https": "https://si0.twimg.com/profile_images/2359281992/irm1_normal.jpg",
+            "source": "&lt;a href=&quot;http://twitter.com/download/android&quot; rel=&quot;nofollow&quot;&gt;Twitter for Android&lt;/a&gt;",
+            "text": "HP error. Hamdalah. Tenang hidup gue.",
+            "to_user": null,
+            "to_user_id": 0,
+            "to_user_id_str": "0",
+            "to_user_name": null
+        }
+    ],
+    "results_per_page": 50,
+    "since_id": 0,
+    "since_id_str": "0"
+}
