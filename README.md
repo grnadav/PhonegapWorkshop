@@ -15,3 +15,5 @@ is at PhonegapWithPlugin folder
 https://github.com/phonegap/phonegap-plugins/issues/672
 )
 
+presentation from:
+https://github.com/cfjedimaster/Introduction-to-PhoneGap
