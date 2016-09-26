@@ -1,5 +1,6 @@
 PhonegapWorkshop
 ================
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 Step 1:
 Create an Android phonegap project according to this:
